@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "chrono": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "list": "cpp"
+    },
+    "ecl.launchConfiguration": "not found",
+    "ecl.targetCluster": {},
+    "ecl.eclccPath": "C:\\Program Files\\HPCCSystems\\9.4.24\\clienttools\\bin\\eclcc.exe"
+}
