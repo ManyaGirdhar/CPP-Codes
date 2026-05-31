@@ -1,6 +1,6 @@
 # C++ Data Structures, Algorithms, and OOP
 
-Welcome to my C++ repository! This repository contains implementations of various Data Structures, Algorithms, and Object-Oriented Programming (OOP) concepts learned during my Udemy study. The codebase is organized topic-wise to serve as a clean reference for learning and future development.
+Welcome to my C++ repository! This repository contains implementations of various Data Structures, Algorithms, and Object-Oriented Programming (OOP) concepts learned during my study. The codebase is organized topic-wise to serve as a clean reference for learning and future development.
 
 ---
 
@@ -101,20 +101,3 @@ Advanced game-theory and AI algorithms.
 *   `alpha_beta_pruning.cpp` — Alpha-beta pruning optimizations for the Minimax algorithm.
 
 ---
-
-## 🛠️ How to Compile & Run
-
-Make sure you have a C++ compiler installed (e.g., `g++` from GCC).
-
-1.  Open your terminal and navigate to the directory containing the file:
-    ```bash
-    cd "searching-and-sorting"
-    ```
-2.  Compile the C++ source file using:
-    ```bash
-    g++ -std=c++17 binary_search.cpp -o binary_search
-    ```
-3.  Run the compiled binary:
-    ```bash
-    ./binary_search
-    ```
