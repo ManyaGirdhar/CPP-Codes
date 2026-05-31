@@ -1,0 +1,23 @@
+# Compiled Binaries & Executables
+*.exe
+*.o
+*.out
+
+# macOS files
+.DS_Store
+Thumbs.db
+
+# IDE and VS Code settings (optional, but keep launch configurations if needed)
+# .vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Log files
+*.log
+eclcc.log
+
+# VS Code Temp Code Runner files
+tempCodeRunnerFile*
